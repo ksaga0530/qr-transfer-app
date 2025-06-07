@@ -1,5 +1,5 @@
-# tenso
-qr-transfer-app
+# tenso\n
+qr-transfer-app\n
 iPhoneやandroidとWindows間で簡単にファイル・テキストを転送できるローカルWebアプリ
 release 2025/6/7
 
