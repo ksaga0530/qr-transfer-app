@@ -1,0 +1,2 @@
+# qr-transfer-app
+iPhoneやandroidとWindows間で簡単にファイル・テキストを転送できるローカルWebアプリ
